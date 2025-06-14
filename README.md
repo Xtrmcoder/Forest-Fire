@@ -28,7 +28,7 @@ A lightweight deep learning web app built with Streamlit that allows users to **
 
 | Upload Image | Prediction Result |
 |--------------|-------------------|
-| ![upload](https://via.placeholder.com/300x200.png?text=Upload+Satellite+Image) | ![result](https://via.placeholder.com/300x200.png?text=Prediction:+Fire+%F0%9F%94%A5) |
+| ![upload](https://github.com/Xtrmcoder/Forest-Fire/blob/b693167b4e81af7812a7f57229b0e08b7f9ff453/-73.43705%2C45.463087.jpg) | ![result](https://via.placeholder.com/300x200.png?text=Prediction:+Fire+%F0%9F%94%A5) |
 
 ---
 
