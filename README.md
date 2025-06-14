@@ -1,6 +1,6 @@
 # 🔥 Fire Detection from Satellite Images
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://forest-fire-miwuzf68mw5wxxeql9pbag.streamlit.app/)
+[![Open in Streamlit](https://github.com/Xtrmcoder/Forest-Fire/blob/1b4afdeacc8ebdef58577ea7e4106c49c2e4babb/Screenshot%202025-06-14%20152954.png)](https://forest-fire-miwuzf68mw5wxxeql9pbag.streamlit.app/)
 
 A lightweight deep learning web app built with Streamlit that allows users to **detect fire in satellite images** using a pre-trained convolutional neural network (CNN). Simply upload a satellite image and the model will classify it as either **Fire 🔥** or **No Fire**.
 
